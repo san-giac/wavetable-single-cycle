@@ -3,4 +3,3 @@ matplotlib
 librosa
 soundfile
 numpy
-streamlit-sortables
